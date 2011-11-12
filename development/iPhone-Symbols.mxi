@@ -66,6 +66,146 @@
 
 <file source="/Home Page Control.graphic.png" destination="$fireworks/Configuration/Common Library/iPhone/Home Page Control.graphic.png"/>
 
+<file source="/Indicator.graphic.png" destination="$fireworks/Configuration/Common Library/iPhone/Indicator.graphic.png"/>
+<file source="/Indicator.jsf" destination="$fireworks/Configuration/Common Library/iPhone/Indicator.jsf"/>
+
+<file source="/Keyboard.graphic.png" destination="$fireworks/Configuration/Common Library/iPhone/Keyboard.graphic.png"/>
+<file source="/Keyboard.jsf" destination="$fireworks/Configuration/Common Library/iPhone/Keyboard.jsf"/>
+
+<file source="/List (Thin).graphic.png" destination="$fireworks/Configuration/Common Library/iPhone/List (Thin).graphic.png"/>
+<file source="/List (Thin).jsf" destination="$fireworks/Configuration/Common Library/iPhone/List (Thin).jsf"/>
+
+<file source="/List Header.graphic.png" destination="$fireworks/Configuration/Common Library/iPhone/List Header.graphic.png"/>
+<file source="/List Header.jsf" destination="$fireworks/Configuration/Common Library/iPhone/List Header.jsf"/>
+
+<file source="/List.graphic.png" destination="$fireworks/Configuration/Common Library/iPhone/List.graphic.png"/>
+<file source="/List.jsf" destination="$fireworks/Configuration/Common Library/iPhone/List.jsf"/>
+
+<file source="/Loading Bar.graphic.png" destination="$fireworks/Configuration/Common Library/iPhone/Loading Bar.graphic.png"/>
+<file source="/Loading Bar.jsf" destination="$fireworks/Configuration/Common Library/iPhone/Loading Bar.jsf"/>
+
+<file source="/Location Pin.graphic.png" destination="$fireworks/Configuration/Common Library/iPhone/Location Pin.graphic.png"/>
+<file source="/Location Pin.jsf" destination="$fireworks/Configuration/Common Library/iPhone/Location Pin.jsf"/>
+
+<file source="/Location Popup.graphic.png" destination="$fireworks/Configuration/Common Library/iPhone/Location Popup.graphic.png"/>
+<file source="/Location Popup.jsf" destination="$fireworks/Configuration/Common Library/iPhone/Location Popup.jsf"/>
+
+<file source="/Lock Screen.graphic.png" destination="$fireworks/Configuration/Common Library/iPhone/Lock Screen.graphic.png"/>
+<file source="/Lock Screen.jsf" destination="$fireworks/Configuration/Common Library/iPhone/Lock Screen.jsf"/>
+
+<file source="/Magnify Selection.graphic.png" destination="$fireworks/Configuration/Common Library/iPhone/Magnify Selection.graphic.png"/>
+<file source="/Magnify Selection.jsf" destination="$fireworks/Configuration/Common Library/iPhone/Magnify Selection.jsf"/>
+
+<file source="/Magnify.graphic.png" destination="$fireworks/Configuration/Common Library/iPhone/Magnify.graphic.png"/>
+<file source="/Magnify.jsf" destination="$fireworks/Configuration/Common Library/iPhone/Magnify.jsf"/>
+
+<file source="/Navigation Button.graphic.png" destination="$fireworks/Configuration/Common Library/iPhone/Navigation Button.graphic.png"/>
+<file source="/Navigation Button.jsf" destination="$fireworks/Configuration/Common Library/iPhone/Navigation Button.jsf"/>
+
+<file source="/Phone Keypad.graphic.png" destination="$fireworks/Configuration/Common Library/iPhone/Phone Keypad.graphic.png"/>
+<file source="/Phone Keypad.jsf" destination="$fireworks/Configuration/Common Library/iPhone/Phone Keypad.jsf"/>
+
+<file source="/PrevNext Button.graphic.png" destination="$fireworks/Configuration/Common Library/iPhone/PrevNext Button.graphic.png"/>
+
+<file source="/Progress Bar (Backup).graphic.png" destination="$fireworks/Configuration/Common Library/iPhone/Progress Bar (Backup).graphic.png"/>
+
+<file source="/Radio Button.graphic.png" destination="$fireworks/Configuration/Common Library/iPhone/Radio Button.graphic.png"/>
+<file source="/Radio Button.jsf" destination="$fireworks/Configuration/Common Library/iPhone/Radio Button.jsf"/>
+
+<file source="/Safary Bottom.graphic.png" destination="$fireworks/Configuration/Common Library/iPhone/Safary Bottom.graphic.png"/>
+<file source="/Safary Bottom.jsf" destination="$fireworks/Configuration/Common Library/iPhone/Safary Bottom.jsf"/>
+
+<file source="/Safary Header.graphic.png" destination="$fireworks/Configuration/Common Library/iPhone/Safary Header.graphic.png"/>
+<file source="/Safary Header.jsf" destination="$fireworks/Configuration/Common Library/iPhone/Safary Header.jsf"/>
+
+<file source="/Search Bar (Grey).graphic.png" destination="$fireworks/Configuration/Common Library/iPhone/Search Bar (Grey).graphic.png"/>
+<file source="/Search Bar (Grey).jsf" destination="$fireworks/Configuration/Common Library/iPhone/Search Bar (Grey).jsf"/>
+
+<file source="/Search Bar.graphic.png" destination="$fireworks/Configuration/Common Library/iPhone/Search Bar.graphic.png"/>
+<file source="/Search Bar.jsf" destination="$fireworks/Configuration/Common Library/iPhone/Search Bar.jsf"/>
+
+<file source="/Selection (Multi).graphic.png" destination="$fireworks/Configuration/Common Library/iPhone/Selection (Multi).graphic.png"/>
+
+<file source="/Selection (Single).graphic.png" destination="$fireworks/Configuration/Common Library/iPhone/Selection (Single).graphic.png"/>
+
+<file source="/Selection Action (Center).graphic.png" destination="$fireworks/Configuration/Common Library/iPhone/Selection Action (Center).graphic.png"/>
+<file source="/Selection Action (Center).jsf" destination="$fireworks/Configuration/Common Library/iPhone/Selection Action (Center).jsf"/>
+
+<file source="/Selection Action (Left).graphic.png" destination="$fireworks/Configuration/Common Library/iPhone/Selection Action (Left).graphic.png"/>
+<file source="/Selection Action (Left).jsf" destination="$fireworks/Configuration/Common Library/iPhone/Selection Action (Left).jsf"/>
+
+<file source="/Selection Action (Right).graphic.png" destination="$fireworks/Configuration/Common Library/iPhone/Selection Action (Right).graphic.png"/>
+<file source="/Selection Action (Right).jsf" destination="$fireworks/Configuration/Common Library/iPhone/Selection Action (Right).jsf"/>
+
+<file source="/Selection Action (Single).graphic.png" destination="$fireworks/Configuration/Common Library/iPhone/Selection Action (Single).graphic.png"/>
+<file source="/Selection Action (Single).jsf" destination="$fireworks/Configuration/Common Library/iPhone/Selection Action (Single).jsf"/>
+
+<file source="/Selection Handle.graphic.png" destination="$fireworks/Configuration/Common Library/iPhone/Selection Handle.graphic.png"/>
+
+<file source="/Slider.graphic.png" destination="$fireworks/Configuration/Common Library/iPhone/Slider.graphic.png"/>
+
+<file source="/Sort Buttons (2 Black).graphic.png" destination="$fireworks/Configuration/Common Library/iPhone/Sort Buttons (2 Black).graphic.png"/>
+<file source="/Sort Buttons (2 Black).jsf" destination="$fireworks/Configuration/Common Library/iPhone/Sort Buttons (2 Black).jsf"/>
+
+<file source="/Sort Buttons (2 Blue).graphic.png" destination="$fireworks/Configuration/Common Library/iPhone/Sort Buttons (2 Blue).graphic.png"/>
+<file source="/Sort Buttons (2 Blue).jsf" destination="$fireworks/Configuration/Common Library/iPhone/Sort Buttons (2 Blue).jsf"/>
+
+<file source="/Sort Buttons (3 Black).graphic.png" destination="$fireworks/Configuration/Common Library/iPhone/Sort Buttons (3 Black).graphic.png"/>
+<file source="/Sort Buttons (3 Black).jsf" destination="$fireworks/Configuration/Common Library/iPhone/Sort Buttons (3 Black).jsf"/>
+
+<file source="/Sort Buttons (3 Blue).graphic.png" destination="$fireworks/Configuration/Common Library/iPhone/Sort Buttons (3 Blue).graphic.png"/>
+<file source="/Sort Buttons (3 Blue).jsf" destination="$fireworks/Configuration/Common Library/iPhone/Sort Buttons (3 Blue).jsf"/>
+
+<file source="/Status Bar.graphic.png" destination="$fireworks/Configuration/Common Library/iPhone/Status Bar.graphic.png"/>
+<file source="/Status Bar.jsf" destination="$fireworks/Configuration/Common Library/iPhone/Status Bar.jsf"/>
+
+<file source="/Switch.graphic.png" destination="$fireworks/Configuration/Common Library/iPhone/Switch.graphic.png"/>
+<file source="/Switch.jsf" destination="$fireworks/Configuration/Common Library/iPhone/Switch.jsf"/>
+
+<file source="/Tab Bar.graphic.png" destination="$fireworks/Configuration/Common Library/iPhone/Tab Bar.graphic.png"/>
+<file source="/Tab Bar.jsf" destination="$fireworks/Configuration/Common Library/Tab Bar.jsf"/>
+
+<file source="/Tabbed Buttons (Large).graphic.png" destination="$fireworks/Configuration/Common Library/iPhone/Tabbed Buttons (Large).graphic.png"/>
+<file source="/Tabbed Buttons (Large).jsf" destination="$fireworks/Configuration/Common Library/Tabbed Buttons (Large).jsf"/>
+
+<file source="/Table Header (Small Text).graphic.png" destination="$fireworks/Configuration/Common Library/iPhone/Table Header (Small Text).graphic.png"/>
+<file source="/Table Header (Small Text).jsf" destination="$fireworks/Configuration/Common Library/Table Header (Small Text).jsf"/>
+
+<file source="/Table Header.graphic.png" destination="$fireworks/Configuration/Common Library/iPhone/Table Header.graphic.png"/>
+<file source="/Table Header.jsf" destination="$fireworks/Configuration/Common Library/iPhone/Table Header.jsf"/>
+
+<file source="/Table Icons.graphic.png" destination="$fireworks/Configuration/Common Library/iPhone/Table Icons.graphic.png"/>
+<file source="/Table Icons.jsf" destination="$fireworks/Configuration/Common Library/iPhone/Table Icons.jsf"/>
+
+<file source="/Table.graphic.png" destination="$fireworks/Configuration/Common Library/iPhone/Table.graphic.png"/>
+<file source="/Table.jsf" destination="$fireworks/Configuration/Common Library/iPhone/Table.jsf"/>
+
+<file source="/Tabs Bar.graphic.png" destination="$fireworks/Configuration/Common Library/iPhone/Tabs Bar.graphic.png"/>
+<file source="/Tabs Bar.jsf" destination="$fireworks/Configuration/Common Library/iPhone/Tabs Bar.jsf"/>
+
+<file source="/Text over Texture.graphic.png" destination="$fireworks/Configuration/Common Library/iPhone/Text over Texture.graphic.png"/>
+<file source="/Text over Texture.jsf" destination="$fireworks/Configuration/Common Library/iPhone/Text over Texture.jsf"/>
+
+<file source="/Thread Count.graphic.png" destination="$fireworks/Configuration/Common Library/iPhone/Thread Count.graphic.png"/>
+<file source="/Thread Count.jsf" destination="$fireworks/Configuration/Common Library/iPhone/Thread Count.jsf"/>
+
+<file source="/Video Controls.graphic.png" destination="$fireworks/Configuration/Common Library/iPhone/Video Controls.graphic.png"/>
+
+<file source="/Wheel (Date and Time Picker).graphic.png" destination="$fireworks/Configuration/Common Library/iPhone/Wheel (Date and Time Picker).graphic.png"/>
+
+<file source="/Wheel (Date Picker).graphic.png" destination="$fireworks/Configuration/Common Library/iPhone/Wheel (Date Picker).graphic.png"/>
+
+<file source="/Wheel (Picker).graphic.png" destination="$fireworks/Configuration/Common Library/iPhone/Wheel (Picker).graphic.png"/>
+<file source="/Wheel (Picker).jsf" destination="$fireworks/Configuration/Common Library/iPhone/Wheel (Picker).jsf"/>
+
+<file source="/Wheel (Selector 1 Item).graphic.png" destination="$fireworks/Configuration/Common Library/iPhone/Wheel (Selector 1 Item).graphic.png"/>
+<file source="/Wheel (Selector 1 Item).jsf" destination="$fireworks/Configuration/Common Library/iPhone/Wheel (Selector 1 Item).jsf"/>
+
+<file source="/Wheel (Selector 2 Items).graphic.png" destination="$fireworks/Configuration/Common Library/iPhone/Wheel (Selector 2 Items).graphic.png"/>
+<file source="/Wheel (Selector 2 Items).jsf" destination="$fireworks/Configuration/Common Library/iPhone/Wheel (Selector 2 Items).jsf"/>
+
+<file source="/Wheel (Time Picker).graphic.png" destination="$fireworks/Configuration/Common Library/iPhone/Wheel (Time Picker).graphic.png"/>
+
 </files>
 
 </macromedia-extension>
