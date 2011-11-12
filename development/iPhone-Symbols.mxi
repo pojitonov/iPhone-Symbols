@@ -206,6 +206,37 @@
 
 <file source="/Wheel (Time Picker).graphic.png" destination="$fireworks/Configuration/Common Library/iPhone/Wheel (Time Picker).graphic.png"/>
 
+<file source="/Notification Center (Bg).graphic.png" destination="$fireworks/Configuration/Common Library/iPhone/Notification Center (Bg).graphic.png"/>
+<file source="/Notification Center (Bg).jsf" destination="$fireworks/Configuration/Common Library/iPhone/Notification Center (Bg).jsf"/>
+
+<file source="/Notification Center (Block).graphic.png" destination="$fireworks/Configuration/Common Library/iPhone/Notification Center (Block).graphic.png"/>
+
+<file source="/Notification Center (Header).graphic.png" destination="$fireworks/Configuration/Common Library/iPhone/Notification Center (Header).graphic.png"/>
+<file source="/Notification Center (Header).jsf" destination="$fireworks/Configuration/Common Library/iPhone/Notification Center (Header).jsf"/>
+
+<file source="/Notification Center (Message Divider).graphic.png" destination="$fireworks/Configuration/Common Library/iPhone/Notification Center (Message Divider).graphic.png"/>
+
+<file source="/Notification Center (Message with Header).graphic.png" destination="$fireworks/Configuration/Common Library/iPhone/Notification Center (Message with Header).graphic.png"/>
+<file source="/Notification Center (Message with Header).jsf" destination="$fireworks/Configuration/Common Library/iPhone/Notification Center (Message with Header).jsf"/>
+
+<file source="/Notification Center (Message).graphic.png" destination="$fireworks/Configuration/Common Library/iPhone/Notification Center (Message).graphic.png"/>
+<file source="/Notification Center (Message).jsf" destination="$fireworks/Configuration/Common Library/iPhone/Notification Center (Message).jsf"/>
+
+<file source="/Notification Lockscreen (Anchored Slider).graphic.png" destination="$fireworks/Configuration/Common Library/iPhone/Notification Lockscreen (Anchored Slider).graphic.png"/>
+<file source="/Notification Lockscreen (Anchored Slider).jsf" destination="$fireworks/Configuration/Common Library/iPhone/Notification Lockscreen (Anchored Slider).jsf"/>
+
+<file source="/Notification Lockscreen (Anchored).graphic.png" destination="$fireworks/Configuration/Common Library/iPhone/Notification Lockscreen (Anchored).graphic.png"/>
+<file source="/Notification Lockscreen (Anchored).jsf" destination="$fireworks/Configuration/Common Library/iPhone/Notification Lockscreen (Anchored).jsf"/>
+
+<file source="/Notification Lockscreen (Slider).graphic.png" destination="$fireworks/Configuration/Common Library/iPhone/Notification Lockscreen (Slider).graphic.png"/>
+<file source="/Notification Lockscreen (Slider).jsf" destination="$fireworks/Configuration/Common Library/iPhone/Notification Lockscreen (Slider).jsf"/>
+
+<file source="/Notification Lockscreen.graphic.png" destination="$fireworks/Configuration/Common Library/iPhone/Notification Lockscreen.graphic.png"/>
+<file source="/Notification Lockscreen.jsf" destination="$fireworks/Configuration/Common Library/iPhone/Notification Lockscreen.jsf"/>
+
+<file source="/Notification.graphic.png" destination="$fireworks/Configuration/Common Library/iPhone/Notification.graphic.png"/>
+<file source="/Notification.jsf" destination="$fireworks/Configuration/Common Library/iPhone/Notification.jsf"/>
+
 </files>
 
 </macromedia-extension>
