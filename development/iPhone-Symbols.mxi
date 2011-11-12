@@ -163,13 +163,13 @@
 <file source="/Switch.jsf" destination="$fireworks/Configuration/Common Library/iPhone/Switch.jsf"/>
 
 <file source="/Tab Bar.graphic.png" destination="$fireworks/Configuration/Common Library/iPhone/Tab Bar.graphic.png"/>
-<file source="/Tab Bar.jsf" destination="$fireworks/Configuration/Common Library/Tab Bar.jsf"/>
+<file source="/Tab Bar.jsf" destination="$fireworks/Configuration/Common Library/iPhone/Tab Bar.jsf"/>
 
 <file source="/Tabbed Buttons (Large).graphic.png" destination="$fireworks/Configuration/Common Library/iPhone/Tabbed Buttons (Large).graphic.png"/>
-<file source="/Tabbed Buttons (Large).jsf" destination="$fireworks/Configuration/Common Library/Tabbed Buttons (Large).jsf"/>
+<file source="/Tabbed Buttons (Large).jsf" destination="$fireworks/Configuration/Common Library/iPhone/Tabbed Buttons (Large).jsf"/>
 
 <file source="/Table Header (Small Text).graphic.png" destination="$fireworks/Configuration/Common Library/iPhone/Table Header (Small Text).graphic.png"/>
-<file source="/Table Header (Small Text).jsf" destination="$fireworks/Configuration/Common Library/Table Header (Small Text).jsf"/>
+<file source="/Table Header (Small Text).jsf" destination="$fireworks/Configuration/Common Library/iPhone/Table Header (Small Text).jsf"/>
 
 <file source="/Table Header.graphic.png" destination="$fireworks/Configuration/Common Library/iPhone/Table Header.graphic.png"/>
 <file source="/Table Header.jsf" destination="$fireworks/Configuration/Common Library/iPhone/Table Header.jsf"/>
