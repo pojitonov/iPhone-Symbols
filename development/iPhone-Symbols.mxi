@@ -20,8 +20,51 @@
 <update method="directlink" url="https://github.com/pojitonov/iPhone-Symbols/raw/master/updates/iPhone-Symbols.xml"/>
 
 <files>
-<file source="/Application List.graphic.png" destination="$fireworks/Configuration/Common Library/WP7/Application List.graphic.png"/>
-<file source="/Application List.jsf" destination="$fireworks/Configuration/Common Library/WP7/Application List.jsf"/>
+<file source="/Alert Bar.graphic.png" destination="$fireworks/Configuration/Common Library/iPhone/Alert Bar.graphic.png"/>
+
+<file source="/Alert.graphic.png" destination="$fireworks/Configuration/Common Library/iPhone/Alert.graphic.png"/>
+<file source="/Alert.jsf" destination="$fireworks/Configuration/Common Library/iPhone/Alert.jsf"/>
+
+<file source="/Alert.graphic.png" destination="$fireworks/Configuration/Common Library/iPhone/Alert.graphic.png"/>
+<file source="/Alert.jsf" destination="$fireworks/Configuration/Common Library/iPhone/Alert.jsf"/>
+
+<file source="/Alphabet List.graphic.png" destination="$fireworks/Configuration/Common Library/iPhone/Alphabet List.graphic.png"/>
+
+<file source="/Background.graphic.png" destination="$fireworks/Configuration/Common Library/iPhone/Background.graphic.png"/>
+<file source="/Background.jsf" destination="$fireworks/Configuration/Common Library/iPhone/Background.jsf"/>
+
+<file source="/Bar Bottom.graphic.png" destination="$fireworks/Configuration/Common Library/iPhone/Bar Bottom.graphic.png"/>
+<file source="/Bar Bottom.jsf" destination="$fireworks/Configuration/Common Library/iPhone/Bar Bottom.jsf"/>
+
+<file source="/Bar Top.graphic.png" destination="$fireworks/Configuration/Common Library/iPhone/Bar Top.graphic.png"/>
+<file source="/Bar Top.jsf" destination="$fireworks/Configuration/Common Library/iPhone/Bar Top.jsf"/>
+
+<file source="/Button (Large).graphic.png" destination="$fireworks/Configuration/Common Library/iPhone/Button (Large).graphic.png"/>
+<file source="/Button (Large).jsf" destination="$fireworks/Configuration/Common Library/iPhone/Button (Large).jsf"/>
+
+<file source="/Button (XtraLarge).graphic.png" destination="$fireworks/Configuration/Common Library/iPhone/Button (XtraLarge).graphic.png"/>
+<file source="/Button (XtraLarge).jsf" destination="$fireworks/Configuration/Common Library/iPhone/Button (XtraLarge).jsf"/>
+
+<file source="/Checkbox.graphic.png" destination="$fireworks/Configuration/Common Library/iPhone/Checkbox.graphic.png"/>
+<file source="/Checkbox.jsf" destination="$fireworks/Configuration/Common Library/iPhone/Checkbox.jsf"/>
+
+<file source="/Checkmarks.graphic.png" destination="$fireworks/Configuration/Common Library/iPhone/Checkmarks.graphic.png"/>
+<file source="/Checkmarks.jsf" destination="$fireworks/Configuration/Common Library/iPhone/Checkmarks.jsf"/>
+
+<file source="/Direction Pin.graphic.png" destination="$fireworks/Configuration/Common Library/iPhone/Direction Pin.graphic.png"/>
+
+<file source="/Dropdown.graphic.png" destination="$fireworks/Configuration/Common Library/iPhone/Dropdown.graphic.png"/>
+<file source="/Dropdown.jsf" destination="$fireworks/Configuration/Common Library/iPhone/Dropdown.jsf"/>
+
+<file source="/Email Name.graphic.png" destination="$fireworks/Configuration/Common Library/iPhone/Email Name.graphic.png"/>
+<file source="/Email Name.jsf" destination="$fireworks/Configuration/Common Library/iPhone/Email Name.jsf"/>
+
+<file source="/Gradient List.graphic.png" destination="$fireworks/Configuration/Common Library/iPhone/Gradient List.graphic.png"/>
+
+<file source="/Hardware.graphic.png" destination="$fireworks/Configuration/Common Library/iPhone/Hardware.graphic.png"/>
+<file source="/Hardware.jsf" destination="$fireworks/Configuration/Common Library/iPhone/Hardware.jsf"/>
+
+<file source="/Home Page Control.graphic.png" destination="$fireworks/Configuration/Common Library/iPhone/Home Page Control.graphic.png"/>
 
 </files>
 
