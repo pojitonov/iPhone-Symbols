@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<macromedia-extension
+	name="WP7 Symbols"
+	version="0.1.1"
+	type="symbols"
+	locked="false"
+	pkgtype="mxp"
+	plugin-manager-type="all-users"
+	enabled-for-enabled-all="true">
+	<author name="Timur Prokopiev"/>
+
+<products>
+<product name="Fireworks" version="10" primary="true" />
+</products>
+
+<description href="http://pojitonov.github.com/WP7-Symbols">
+<![CDATA[Fireworks Symbols Library for Windows Phone 7.]]>
+</description>
+
+<update method="directlink" url="https://github.com/pojitonov/WP7-Symbols/raw/master/updates/WP7-Symbols.xml"/>
+
+<files>
+<file source="/Application List.graphic.png" destination="$fireworks/Configuration/Common Library/WP7/Application List.graphic.png"/>
+<file source="/Application List.jsf" destination="$fireworks/Configuration/Common Library/WP7/Application List.jsf"/>
+
+<file source="/Apps List.graphic.png" destination="$fireworks/Configuration/Common Library/WP7/Apps List.graphic.png"/>
+<file source="/Apps List.jsf" destination="$fireworks/Configuration/Common Library/WP7/Apps List.jsf"/>
+
+<file source="/Arrow.graphic.png" destination="$fireworks/Configuration/Common Library/WP7/Arrow.graphic.png"/>
+
+<file source="/Back&Forward.graphic.png" destination="$fireworks/Configuration/Common Library/WP7/Back&Forward.graphic.png"/>
+<file source="/Back&Forward.jsf" destination="$fireworks/Configuration/Common Library/WP7/Back&Forward.jsf"/>
+
+<file source="/Background.graphic.png" destination="$fireworks/Configuration/Common Library/WP7/Background.graphic.png"/>
+<file source="/Background.jsf" destination="$fireworks/Configuration/Common Library/WP7/Background.jsf"/>
+
+<file source="/Chat Bubble.graphic.png" destination="$fireworks/Configuration/Common Library/WP7/Chat Bubble.graphic.png"/>
+<file source="/Chat Bubble.jsf" destination="$fireworks/Configuration/Common Library/WP7/Chat Bubble.jsf"/>
+
+<file source="/Checkbox.graphic.png" destination="$fireworks/Configuration/Common Library/WP7/Check Box.graphic.png"/>
+<file source="/Checkbox.jsf" destination="$fireworks/Configuration/Common Library/WP7/Check Box.jsf"/>
+
+<file source="/Command Button.graphic.png" destination="$fireworks/Configuration/Common Library/WP7/Command Button.graphic.png"/>
+<file source="/Command Button.jsf" destination="$fireworks/Configuration/Common Library/WP7/Command Button.jsf"/>
+
+<file source="/Date Picker.graphic.png" destination="$fireworks/Configuration/Common Library/WP7/Date Picker.graphic.png"/>
+<file source="/Date Picker.jsf" destination="$fireworks/Configuration/Common Library/WP7/Date Picker.jsf"/>
+
+<file source="/Grid View.graphic.png" destination="$fireworks/Configuration/Common Library/WP7/Grid View.graphic.png"/>
+
+<file source="/Hardware.graphic.png" destination="$fireworks/Configuration/Common Library/WP7/Hardware.graphic.png"/>
+<file source="/Hardware.jsf" destination="$fireworks/Configuration/Common Library/WP7/Hardware.jsf"/>
+
+<file source="/Icon Button.graphic.png" destination="$fireworks/Configuration/Common Library/WP7/Icon Button.graphic.png"/>
+<file source="/Icon Button.jsf" destination="$fireworks/Configuration/Common Library/WP7/Icon Button.jsf"/>
+
+<file source="/Inline Progress 1.graphic.png" destination="$fireworks/Configuration/Common Library/WP7/Inline Progress 1.graphic.png"/>
+<file source="/Inline Progress 1.jsf" destination="$fireworks/Configuration/Common Library/WP7/Inline Progress 1.jsf"/>
+
+<file source="/Inline Progress 2.graphic.png" destination="$fireworks/Configuration/Common Library/WP7/Inline Progress 2.graphic.png"/>
+<file source="/Inline Progress 2.jsf" destination="$fireworks/Configuration/Common Library/WP7/Inline Progress 2.jsf"/>
+
+<file source="/Intermediate.graphic.png" destination="$fireworks/Configuration/Common Library/WP7/Intermediate.graphic.png"/>
+<file source="/Intermediate.jsf" destination="$fireworks/Configuration/Common Library/WP7/Intermediate.jsf"/>
+
+<file source="/Keyboard.graphic.png" destination="$fireworks/Configuration/Common Library/WP7/Keyboard.graphic.png"/>
+<file source="/Keyboard.jsf" destination="$fireworks/Configuration/Common Library/WP7/Keyboard.jsf"/>
+
+<file source="/List Picker.graphic.png" destination="$fireworks/Configuration/Common Library/WP7/List Picker.graphic.png"/>
+<file source="/List Picker.jsf" destination="$fireworks/Configuration/Common Library/WP7/List Picker.jsf"/>
+
+<file source="/Multi-Line Edit Box.graphic.png" destination="$fireworks/Configuration/Common Library/WP7/Multi-Line Edit Box.graphic.png"/>
+<file source="/Multi-Line Edit Box.jsf" destination="$fireworks/Configuration/Common Library/WP7/Multi-Line Edit Box.jsf"/>
+
+<file source="/Notification.graphic.png" destination="$fireworks/Configuration/Common Library/WP7/Notification.graphic.png"/>
+<file source="/Notification.jsf" destination="$fireworks/Configuration/Common Library/WP7/Notification.jsf"/>
+
+<file source="/Pagination.graphic.png" destination="$fireworks/Configuration/Common Library/WP7/Pagination.graphic.png"/>
+<file source="/Pagination.jsf" destination="$fireworks/Configuration/Common Library/WP7/Pagination.jsf"/>
+
+<file source="/Panorama_exclusive(big).graphic.png" destination="$fireworks/Configuration/Common Library/WP7/Panorama_exclusive(big).graphic.png"/>
+<file source="/Panorama_exclusive(big).jsf" destination="$fireworks/Configuration/Common Library/WP7/Panorama_exclusive(big).jsf"/>
+
+<file source="/Panorama_exclusive(small).graphic.png" destination="$fireworks/Configuration/Common Library/WP7/Panorama_exclusive(small).graphic.png"/>
+<file source="/Panorama_exclusive(small).jsf" destination="$fireworks/Configuration/Common Library/WP7/Panorama_exclusive(small).jsf"/>
+
+<file source="/Panorama_featured(icon).graphic.png" destination="$fireworks/Configuration/Common Library/WP7/Panorama_featured(icon).graphic.png"/>
+<file source="/Panorama_featured(icon).jsf" destination="$fireworks/Configuration/Common Library/WP7/Panorama_featured(icon).jsf"/>
+
+<file source="/Panorama_featured.graphic.png" destination="$fireworks/Configuration/Common Library/WP7/Panorama_featured.graphic.png"/>
+<file source="/Panorama_featured.jsf" destination="$fireworks/Configuration/Common Library/WP7/Panorama_featured.jsf"/>
+
+<file source="/Panorama_featured2(icon).graphic.png" destination="$fireworks/Configuration/Common Library/WP7/Panorama_featured2(icon).graphic.png"/>
+<file source="/Panorama_featured2(icon).jsf" destination="$fireworks/Configuration/Common Library/WP7/Panorama_featured2(icon).jsf"/>
+
+<file source="/Panorama_featured2.graphic.png" destination="$fireworks/Configuration/Common Library/WP7/Panorama_featured2.graphic.png"/>
+<file source="/Panorama_featured2.jsf" destination="$fireworks/Configuration/Common Library/WP7/Panorama_featured2.jsf"/>
+
+<file source="/Panorama_grid.graphic.png" destination="$fireworks/Configuration/Common Library/WP7/Panorama_grid.graphic.png"/>
+<file source="/Panorama_grid.jsf" destination="$fireworks/Configuration/Common Library/WP7/Panorama_grid.jsf"/>
+
+<file source="/Panorama_list(icon).graphic.png" destination="$fireworks/Configuration/Common Library/WP7/Panorama_list(icon).graphic.png"/>
+<file source="/Panorama_list(icon).jsf" destination="$fireworks/Configuration/Common Library/WP7/Panorama_list(icon).jsf"/>
+
+<file source="/Panorama_list.graphic.png" destination="$fireworks/Configuration/Common Library/WP7/Panorama_list.graphic.png"/>
+<file source="/Panorama_list.jsf" destination="$fireworks/Configuration/Common Library/WP7/Panorama_list.jsf"/>
+
+<file source="/Panorama_list2.graphic.png" destination="$fireworks/Configuration/Common Library/WP7/Panorama_list2.graphic.png"/>
+<file source="/Panorama_list2.jsf" destination="$fireworks/Configuration/Common Library/WP7/Panorama_list2.jsf"/>
+
+<file source="/Quick Jump Grid.graphic.png" destination="$fireworks/Configuration/Common Library/WP7/Quick Jump Grid.graphic.png"/>
+<file source="/Quick Jump Grid.jsf" destination="$fireworks/Configuration/Common Library/WP7/Quick Jump Grid.jsf"/>
+
+<file source="/Quick Jump List.graphic.png" destination="$fireworks/Configuration/Common Library/WP7/Quick Jump List.graphic.png"/>
+<file source="/Quick Jump List.jsf" destination="$fireworks/Configuration/Common Library/WP7/Quick Jump List.jsf"/>
+
+<file source="/Radio Button.graphic.png" destination="$fireworks/Configuration/Common Library/WP7/Radio Button.graphic.png"/>
+<file source="/Radio Button.jsf" destination="$fireworks/Configuration/Common Library/WP7/Radio Button.jsf"/>
+
+<file source="/Slider (thumb).graphic.png" destination="$fireworks/Configuration/Common Library/WP7/Slider (thumb).graphic.png"/>
+<file source="/Slider (thumb).jsf" destination="$fireworks/Configuration/Common Library/WP7/Slider (thumb).jsf"/>
+
+<file source="/Slider (tick marks).graphic.png" destination="$fireworks/Configuration/Common Library/WP7/Slider (tick marks).graphic.png"/>
+<file source="/Slider (tick marks).jsf" destination="$fireworks/Configuration/Common Library/WP7/Slider (tick marks).jsf"/>
+
+<file source="/Standalone Button.graphic.png" destination="$fireworks/Configuration/Common Library/WP7/Standalone Button.graphic.png"/>
+<file source="/Standalone Button.jsf" destination="$fireworks/Configuration/Common Library/WP7/Standalone Button.jsf"/>
+
+<file source="/Start Screen.graphic.png" destination="$fireworks/Configuration/Common Library/WP7/Start Screen.graphic.png"/>
+<file source="/Start Screen.jsf" destination="$fireworks/Configuration/Common Library/WP7/Start Screen.jsf"/>
+
+<file source="/Status Bar.graphic.png" destination="$fireworks/Configuration/Common Library/WP7/Status Bar.graphic.png"/>
+<file source="/Status Bar.jsf" destination="$fireworks/Configuration/Common Library/WP7/Status Bar.jsf"/>
+
+<file source="/System Menu Icon.graphic.png" destination="$fireworks/Configuration/Common Library/WP7/System Menu Icon.graphic.png"/>
+<file source="/System Menu Icon.jsf" destination="$fireworks/Configuration/Common Library/WP7/System Menu Icon.jsf"/>
+
+<file source="/System Menu Thumb.graphic.png" destination="$fireworks/Configuration/Common Library/WP7/System Menu Thumb.graphic.png"/>
+<file source="/System Menu Thumb.jsf" destination="$fireworks/Configuration/Common Library/WP7/System Menu Thumb.jsf"/>
+
+<file source="/Text_normal.graphic.png" destination="$fireworks/Configuration/Common Library/WP7/Text_normal.graphic.png"/>
+<file source="/Text_normal.jsf" destination="$fireworks/Configuration/Common Library/WP7/Text_normal.jsf"/>
+
+<file source="/Tile.graphic.png" destination="$fireworks/Configuration/Common Library/WP7/Tile.graphic.png"/>
+<file source="/Tile.jsf" destination="$fireworks/Configuration/Common Library/WP7/Tile.jsf"/>
+
+<file source="/Time Picker.graphic.png" destination="$fireworks/Configuration/Common Library/WP7/Time Picker.graphic.png"/>
+<file source="/Time Picker.jsf" destination="$fireworks/Configuration/Common Library/WP7/Time Picker.jsf"/>
+
+<file source="/Title_big.graphic.png" destination="$fireworks/Configuration/Common Library/WP7/Title_big.graphic.png"/>
+<file source="/Title_big.jsf" destination="$fireworks/Configuration/Common Library/WP7/Title_big.jsf"/>
+
+<file source="/Title_biggest.graphic.png" destination="$fireworks/Configuration/Common Library/WP7/Title_biggest.graphic.png"/>
+<file source="/Title_biggest.jsf" destination="$fireworks/Configuration/Common Library/WP7/Title_biggest.jsf"/>
+
+<file source="/Title_large(bold).graphic.png" destination="$fireworks/Configuration/Common Library/WP7/Title_large(bold).graphic.png"/>
+<file source="/Title_large(bold).jsf" destination="$fireworks/Configuration/Common Library/WP7/Title_large(bold).jsf"/>
+
+<file source="/Title_large.graphic.png" destination="$fireworks/Configuration/Common Library/WP7/Title_large.graphic.png"/>
+<file source="/Title_large.jsf" destination="$fireworks/Configuration/Common Library/WP7/Title_large.jsf"/>
+
+<file source="/Title_Panorama.graphic.png" destination="$fireworks/Configuration/Common Library/WP7/Title_Panorama.graphic.png"/>
+<file source="/Title_Panorama.jsf" destination="$fireworks/Configuration/Common Library/WP7/Title_Panorama.jsf"/>
+
+<file source="/Title_small(bold).graphic.png" destination="$fireworks/Configuration/Common Library/WP7/Title_small(bold).graphic.png"/>
+<file source="/Title_small(bold).jsf" destination="$fireworks/Configuration/Common Library/WP7/Title_small(bold).jsf"/>
+
+<file source="/Title_small.graphic.png" destination="$fireworks/Configuration/Common Library/WP7/Title_small.graphic.png"/>
+<file source="/Title_small.jsf" destination="$fireworks/Configuration/Common Library/WP7/Title_small.jsf"/>
+
+<file source="/Toggle.graphic.png" destination="$fireworks/Configuration/Common Library/WP7/Toggle.graphic.png"/>
+<file source="/Toggle.jsf" destination="$fireworks/Configuration/Common Library/WP7/Toggle.jsf"/>
+
+<file source="/Wait Screen.graphic.png" destination="$fireworks/Configuration/Common Library/WP7/Wait Screen.graphic.png"/>
+
+</files>
+
+</macromedia-extension>
