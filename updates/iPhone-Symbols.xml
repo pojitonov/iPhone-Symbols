@@ -1,13 +1,13 @@
 ﻿<ExtensionUpdateInformation>
-<version>0.1.1</version>
-<download>https://github.com/pojitonov/WP7-Symbols/raw/master/releases/WP7-Symbols.mxp</download>
+<version>0.1.0</version>
+<download>https://github.com/pojitonov/iPhone-Symbols/raw/master/releases/iPhone-Symbols.mxp</download>
 
 <description>
 
 <![CDATA[<dl>
 
-<dt>0.1.1</dt>
-<dd>Added the ability to hide bubble count on Tile widget.</dd>
+<dt>0.1.0</dt>
+<dd>Initial release.</dd>
 
 </dl>]]>
 
