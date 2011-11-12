@@ -1,0 +1,138 @@
+/* general */
+html, body {
+    height: 100%;
+}
+
+body {
+    font: normal 12px/1.3 arial, sans-serif;
+    color: #000;
+}
+
+a {
+    color: #0052cc;
+    text-decoration: underline;
+}
+
+a:hover {
+    color: #444;
+}
+
+/* layout */
+header, .content, .wrapper {
+    width: 95%;
+    margin: 0 auto;
+}
+
+div.page {
+    min-height: 100%;
+    position: relative;
+}
+
+header {
+    position: relative;
+    margin: 60px auto 56px;
+    height: 40px;
+}
+
+.main {
+    width: 75%;
+    float: left;
+}
+
+aside {
+    width: 25%;
+    float: right;
+}
+
+aside p {
+    margin-bottom: 20px;
+}
+
+.footer {
+    clear: both;
+    width: 100%;
+    overflow: hidden;
+    padding: 15px 0 45px;
+    border-top: 1px solid #ebebeb;
+    color: #999;
+}
+
+.footer p {
+    float: right;
+}
+
+.footer ul {
+    float: left;
+    line-height: 1;
+}
+
+.footer li {
+    display: inline;
+    padding-left: 10px;
+    margin-left: 7px;
+    border-left: 1px solid #dedede;
+}
+
+.footer li a {
+    color: #999;
+}
+
+.footer li:first-child {
+    padding-left: 0;
+    border-left: 0;
+}
+
+.content {
+    padding-bottom: 50px;
+}
+
+.content:after {
+    content: '';
+    display: block;
+    height: 0;
+    overflow: hidden;
+    clear: both;
+}
+
+.content .phone-img {
+    float: left;
+    position: relative;
+    right: 40px;
+}
+
+.content h1 {
+    margin-bottom: 26px;
+    font-size: 28px;
+    color: #187cd1;
+}
+
+.content h2 {
+    margin-bottom: 15px;
+    font-size: 18px;
+    text-align: left;
+}
+
+.content h1 + p {
+    padding-right: 20px;
+    margin-bottom: 30px;
+}
+
+.content h1.motto {
+    position: relative;
+    right: 75px;
+    padding-top: 150px;
+    margin-right: 40px;
+    font-size: 60px;
+    line-height: 1.1;
+    color: #333;
+}
+
+.content h1.motto strong {
+    font-weight: normal;
+    color: #3992d6;
+}
+
+li img {
+    vertical-align: -2px;
+    padding-right: 5px;
+}
