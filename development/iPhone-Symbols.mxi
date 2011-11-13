@@ -237,6 +237,9 @@
 <file source="/Notification.graphic.png" destination="$fireworks/Configuration/Common Library/iPhone/Notification.graphic.png"/>
 <file source="/Notification.jsf" destination="$fireworks/Configuration/Common Library/iPhone/Notification.jsf"/>
 
+<file source="/Icon.graphic.png" destination="$fireworks/Configuration/Common Library/iPhone/Icon.graphic.png"/>
+<file source="/Icon.jsf" destination="$fireworks/Configuration/Common Library/iPhone/Icon.jsf"/>
+
 </files>
 
 </macromedia-extension>
