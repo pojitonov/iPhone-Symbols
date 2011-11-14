@@ -72,6 +72,12 @@
 <file source="/Keyboard.graphic.png" destination="$fireworks/Configuration/Common Library/iPhone/Keyboard.graphic.png"/>
 <file source="/Keyboard.jsf" destination="$fireworks/Configuration/Common Library/iPhone/Keyboard.jsf"/>
 
+<file source="/List 2 (Thin).graphic.png" destination="$fireworks/Configuration/Common Library/iPhone/List 2 (Thin).graphic.png"/>
+<file source="/List 2 (Thin).jsf" destination="$fireworks/Configuration/Common Library/iPhone/List 2 (Thin).jsf"/>
+
+<file source="/List 2.graphic.png" destination="$fireworks/Configuration/Common Library/iPhone/List 2.graphic.png"/>
+<file source="/List 2.jsf" destination="$fireworks/Configuration/Common Library/iPhone/List 2.jsf"/>
+
 <file source="/List (Thin).graphic.png" destination="$fireworks/Configuration/Common Library/iPhone/List (Thin).graphic.png"/>
 <file source="/List (Thin).jsf" destination="$fireworks/Configuration/Common Library/iPhone/List (Thin).jsf"/>
 
