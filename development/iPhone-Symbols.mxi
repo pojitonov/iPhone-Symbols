@@ -211,6 +211,7 @@
 <file source="/Wheel (Selector 2 Items).jsf" destination="$fireworks/Configuration/Common Library/iPhone/Wheel (Selector 2 Items).jsf"/>
 
 <file source="/Wheel (Time Picker).graphic.png" destination="$fireworks/Configuration/Common Library/iPhone/Wheel (Time Picker).graphic.png"/>
+<file source="/Wheel (Time Picker).jsf" destination="$fireworks/Configuration/Common Library/iPhone/Wheel (Time Picker).jsf"/>
 
 <file source="/Notification Center (Bg).graphic.png" destination="$fireworks/Configuration/Common Library/iPhone/Notification Center (Bg).graphic.png"/>
 <file source="/Notification Center (Bg).jsf" destination="$fireworks/Configuration/Common Library/iPhone/Notification Center (Bg).jsf"/>
