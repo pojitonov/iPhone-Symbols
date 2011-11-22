@@ -20,6 +20,10 @@
 <update method="directlink" url="https://github.com/pojitonov/iPhone-Symbols/raw/master/updates/iPhone-Symbols.xml"/>
 
 <files>
+
+<file source="/Alert (Password).graphic.png" destination="$fireworks/Configuration/Common Library/iPhone/Alert (Password).graphic.png"/>
+<file source="/Alert (Password).jsf" destination="$fireworks/Configuration/Common Library/iPhone/Alert (Password).jsf"/>
+
 <file source="/Alert Bar.graphic.png" destination="$fireworks/Configuration/Common Library/iPhone/Alert Bar.graphic.png"/>
 
 <file source="/Alert.graphic.png" destination="$fireworks/Configuration/Common Library/iPhone/Alert.graphic.png"/>
