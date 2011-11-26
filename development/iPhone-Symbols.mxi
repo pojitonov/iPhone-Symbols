@@ -175,6 +175,9 @@
 <file source="/Switch.graphic.png" destination="$fireworks/Configuration/Common Library/iPhone/Switch.graphic.png"/>
 <file source="/Switch.jsf" destination="$fireworks/Configuration/Common Library/iPhone/Switch.jsf"/>
 
+<file source="/Tab Bar (Icons).graphic.png" destination="$fireworks/Configuration/Common Library/iPhone/Tab Bar (Icons).graphic.png"/>
+<file source="/Tab Bar (Icons).jsf" destination="$fireworks/Configuration/Common Library/iPhone/Tab Bar (Icons).jsf"/>
+
 <file source="/Tab Bar.graphic.png" destination="$fireworks/Configuration/Common Library/iPhone/Tab Bar.graphic.png"/>
 <file source="/Tab Bar.jsf" destination="$fireworks/Configuration/Common Library/iPhone/Tab Bar.jsf"/>
 
