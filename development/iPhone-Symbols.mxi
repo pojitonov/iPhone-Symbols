@@ -208,6 +208,7 @@
 <file source="/Video Controls.graphic.png" destination="$fireworks/Configuration/Common Library/iPhone/Video Controls.graphic.png"/>
 
 <file source="/Wheel (Date and Time Picker).graphic.png" destination="$fireworks/Configuration/Common Library/iPhone/Wheel (Date and Time Picker).graphic.png"/>
+<file source="/Wheel (Date and Time Picker).jsf" destination="$fireworks/Configuration/Common Library/iPhone/Wheel (Date and Time Picker).jsf"/>
 
 <file source="/Wheel (Date Picker).graphic.png" destination="$fireworks/Configuration/Common Library/iPhone/Wheel (Date Picker).graphic.png"/>
 <file source="/Wheel (Date Picker).jsf" destination="$fireworks/Configuration/Common Library/iPhone/Wheel (Date Picker).jsf"/>
