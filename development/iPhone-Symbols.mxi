@@ -21,6 +21,9 @@
 
 <files>
 
+<file source="/Alert (Log&Pass).graphic.png" destination="$fireworks/Configuration/Common Library/iPhone/Alert (Log&Pass).graphic.png"/>
+<file source="/Alert (Log&Pass).jsf" destination="$fireworks/Configuration/Common Library/iPhone/Alert (Log&Pass).jsf"/>
+
 <file source="/Alert (Password).graphic.png" destination="$fireworks/Configuration/Common Library/iPhone/Alert (Password).graphic.png"/>
 <file source="/Alert (Password).jsf" destination="$fireworks/Configuration/Common Library/iPhone/Alert (Password).jsf"/>
 
